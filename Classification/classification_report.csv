@@ -1,0 +1,153 @@
+0.7029702970297029,Gradient Boosting,1
+0.7326732673267327,Gradient Boosting,2
+0.7326732673267327,Gradient Boosting,3
+0.7227722772277227,Gradient Boosting,4
+0.69,Gradient Boosting,5
+0.72,Gradient Boosting,6
+0.77,Gradient Boosting,7
+0.66,Gradient Boosting,8
+0.76,Gradient Boosting,9
+0.75,Gradient Boosting,10
+0.693069306930693,Nearest Neighbors,1
+0.7029702970297029,Nearest Neighbors,2
+0.7722772277227723,Nearest Neighbors,3
+0.7227722772277227,Nearest Neighbors,4
+0.69,Nearest Neighbors,5
+0.73,Nearest Neighbors,6
+0.76,Nearest Neighbors,7
+0.69,Nearest Neighbors,8
+0.76,Nearest Neighbors,9
+0.74,Nearest Neighbors,10
+0.49504950495049505,Linear SVM,1
+0.49504950495049505,Linear SVM,2
+0.49504950495049505,Linear SVM,3
+0.49504950495049505,Linear SVM,4
+0.69,Linear SVM,5
+0.76,Linear SVM,6
+0.77,Linear SVM,7
+0.66,Linear SVM,8
+0.71,Linear SVM,9
+0.73,Linear SVM,10
+0.693069306930693,RBF SVM,1
+0.7326732673267327,RBF SVM,2
+0.7524752475247525,RBF SVM,3
+0.7227722772277227,RBF SVM,4
+0.66,RBF SVM,5
+0.72,RBF SVM,6
+0.78,RBF SVM,7
+0.68,RBF SVM,8
+0.79,RBF SVM,9
+0.75,RBF SVM,10
+0.7326732673267327,Gaussian Process,1
+0.7326732673267327,Gaussian Process,2
+0.7821782178217822,Gaussian Process,3
+0.7029702970297029,Gradient Boosting,1
+0.7227722772277227,Gradient Boosting,2
+0.7326732673267327,Gradient Boosting,3
+0.7227722772277227,Gradient Boosting,4
+0.68,Gradient Boosting,5
+0.71,Gradient Boosting,6
+0.77,Gradient Boosting,7
+0.65,Gradient Boosting,8
+0.76,Gradient Boosting,9
+0.75,Gradient Boosting,10
+0.693069306930693,Nearest Neighbors,1
+0.7029702970297029,Nearest Neighbors,2
+0.7722772277227723,Nearest Neighbors,3
+0.7227722772277227,Nearest Neighbors,4
+0.69,Nearest Neighbors,5
+0.73,Nearest Neighbors,6
+0.76,Nearest Neighbors,7
+0.69,Nearest Neighbors,8
+0.76,Nearest Neighbors,9
+0.74,Nearest Neighbors,10
+0.49504950495049505,Linear SVM,1
+0.49504950495049505,Linear SVM,2
+0.49504950495049505,Linear SVM,3
+0.49504950495049505,Linear SVM,4
+0.69,Linear SVM,5
+0.76,Linear SVM,6
+0.77,Linear SVM,7
+0.66,Linear SVM,8
+0.71,Linear SVM,9
+0.73,Linear SVM,10
+0.693069306930693,RBF SVM,1
+0.7326732673267327,RBF SVM,2
+0.7524752475247525,RBF SVM,3
+0.7227722772277227,RBF SVM,4
+0.66,RBF SVM,5
+0.72,RBF SVM,6
+0.78,RBF SVM,7
+0.68,RBF SVM,8
+0.79,RBF SVM,9
+0.75,RBF SVM,10
+0.7326732673267327,Gaussian Process,1
+0.7326732673267327,Gaussian Process,2
+0.7821782178217822,Gaussian Process,3
+0.7326732673267327,Gaussian Process,4
+0.7,Gaussian Process,5
+0.77,Gaussian Process,6
+0.78,Gaussian Process,7
+0.69,Gaussian Process,8
+0.8,Gaussian Process,9
+0.75,Gaussian Process,10
+0.5643564356435643,Decision Tree,1
+0.594059405940594,Decision Tree,2
+0.5643564356435643,Decision Tree,3
+0.594059405940594,Decision Tree,4
+0.59,Decision Tree,5
+0.62,Decision Tree,6
+0.56,Decision Tree,7
+0.57,Decision Tree,8
+0.59,Decision Tree,9
+0.56,Decision Tree,10
+0.6732673267326733,Random Forest,1
+0.693069306930693,Random Forest,2
+0.7029702970297029,Random Forest,3
+0.693069306930693,Random Forest,4
+0.62,Random Forest,5
+0.7,Random Forest,6
+0.7,Random Forest,7
+0.65,Random Forest,8
+0.7,Random Forest,9
+0.69,Random Forest,10
+0.7326732673267327,Neural Net,1
+0.7326732673267327,Neural Net,2
+0.7821782178217822,Neural Net,3
+0.7326732673267327,Neural Net,4
+0.69,Neural Net,5
+0.77,Neural Net,6
+0.78,Neural Net,7
+0.71,Neural Net,8
+0.79,Neural Net,9
+0.75,Neural Net,10
+0.693069306930693,AdaBoost,1
+0.7128712871287128,AdaBoost,2
+0.7227722772277227,AdaBoost,3
+0.7029702970297029,AdaBoost,4
+0.67,AdaBoost,5
+0.74,AdaBoost,6
+0.78,AdaBoost,7
+0.66,AdaBoost,8
+0.75,AdaBoost,9
+0.74,AdaBoost,10
+0.6732673267326733,Naive Bayes,1
+0.6831683168316832,Naive Bayes,2
+0.7326732673267327,Naive Bayes,3
+0.6732673267326733,Naive Bayes,4
+0.65,Naive Bayes,5
+0.71,Naive Bayes,6
+0.71,Naive Bayes,7
+0.62,Naive Bayes,8
+0.72,Naive Bayes,9
+0.7,Naive Bayes,10
+0.6534653465346535,QDA,1
+0.6831683168316832,QDA,2
+0.7425742574257426,QDA,3
+0.6435643564356436,QDA,4
+0.65,QDA,5
+0.67,QDA,6
+0.68,QDA,7
+0.63,QDA,8
+0.71,QDA,9
+0.69,QDA,10
