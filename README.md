@@ -12,7 +12,7 @@ The project contains many Python files and Jupyter notebooks organized in folder
 ## Data Analysis
 The data used in this study has been gathered using Twitter's API and the snscrape tool.<br>
 Botometer has been used as a tool for bot detection, removing tweets whose bot probability was above a certain threshold.<br>
-A pipeline of NLP steps has been then performed:
+A pipeline of NLP steps has been then performed: 
 <ul>
  <li>Data Cleaning</li>
  <li>Tokenization</li>
